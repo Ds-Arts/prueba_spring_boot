@@ -28,4 +28,5 @@ public class Individuo implements Serializable{
     private String  telefono;
     private String correo;
     private Integer edad;
+    private String password;
 }
